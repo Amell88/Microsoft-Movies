@@ -1,6 +1,5 @@
-
 <div style="width: 100%; height: 50%;">
-  <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/08b31a8c-0271-4c05-b3a3-cb1d36618819" alt="Movie Time" style="width: 100%; height: 100%;">
+  <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/8c619dbd-5b51-4622-9c85-f2828393c6e0" alt="Movie Time" style="width: 100%; height: 100%;">
 </div>
 
 # 🎬 Empowering Microsoft's New Movie Studio 🌟
