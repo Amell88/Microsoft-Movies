@@ -1,6 +1,5 @@
-<div style="width:100%;height:50%;">
-  <img src="![Uploading giphy.gif…]()
-" alt="Movie Time" style="width:100%;height:100%;">
+<div style="width: 100%; height: 50%;">
+  <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/7b13190d-f92f-4009-96d4-53ef3dec6781" alt="Movie Time" style="width: 100%; height: 100%;">
 </div>
 
 # 🎬 Empowering Microsoft's New Movie Studio 🌟
