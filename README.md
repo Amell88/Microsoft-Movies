@@ -2,7 +2,8 @@
   <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/8c619dbd-5b51-4622-9c85-f2828393c6e0" alt="Movie Time" style="width: 100%; height: 100%;">
 </div>
 
-#  Empowering Microsoft's New Movie Studio   🎬
+#   <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/74487911-8f5d-4ce9-abd7-ac951323aa86" alt="Infographic" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" />  Empowering Microsoft's New Movie Studio 🎬
+
 
 ## <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962" alt="Fireworks" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" />Overview
 
