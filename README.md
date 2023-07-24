@@ -4,7 +4,7 @@
 
 #  Empowering Microsoft's New Movie Studio   🎬
 
-## <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962" alt="Fireworks" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" /> Overview
+## <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962" alt="Fireworks" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" />Overview
 
 Welcome to the "Empowering Microsoft's New Movie Studio" initiative, in which we will embark on an exciting journey to assist Microsoft in its foray into the world of filmmaking. We hope to provide Microsoft's new movie studio with the tools and insights it needs to succeed as it sets its sights on developing original video content.🎥🎉
 
