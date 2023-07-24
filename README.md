@@ -32,8 +32,7 @@ Microsoft, a technology giant, is attempting to enter the burgeoning industry of
 ## Conclusion
 Microsoft will receive useful knowledge and suggestions from this project that are in line with audience preferences, market trends, and the craft of storytelling. With this information, Microsoft's new movie studio will be better equipped to create interesting and profitable movies that enthrall viewers everywhere.
 
-![fireworks](https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962)
- 🚀 Join me on this exhilarating journey as we harness the power of data and creativity to empower Microsoft's brand-new film studio and create unforgettable cinematic experiences. 🎥🚀
+<img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962" alt="Fireworks" style="float: left; margin-right: 20px;" width="100" height="100"> 🚀 Join me on this exhilarating journey as we harness the power of data and creativity to empower Microsoft's brand-new film studio and create unforgettable cinematic experiences. 🎥🚀
 
 Lights, camera, action! 🌟🎬🎥
 
